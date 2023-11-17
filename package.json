@@ -1,0 +1,23 @@
+{
+  "name": "serverless-s3-upload-rev2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mha47/serverless-s3-upload-rev2.git"
+  },
+  "author": "Mha47",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mha47/serverless-s3-upload-rev2/issues"
+  },
+  "homepage": "https://github.com/Mha47/serverless-s3-upload-rev2#readme",
+  "dependencies": {
+    "parse-multipart": "^1.0.4",
+    "serverless": "^3.37.0"
+  }
+}
